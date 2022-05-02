@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Kuria
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - jameskuria04@gmail.com, or contact me on +254700262226
 
