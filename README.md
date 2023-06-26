@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jameskuria&theme=react&hide_border=true&exclude_days=Sat&sideNums=EB5454&background=81%2C94379A%2C2E58B6)](https://git.io/streak-stats)
 
 ![jameskuria's stats](https://github-readme-stats.vercel.app/api?username=jameskuria)
-![jameskuria's trophies](https://github-profile-trophy.vercel.app/?username=jameskuria)
+<!--- ![jameskuria's trophies](https://github-profile-trophy.vercel.app/?username=jameskuria) --->
 <!--- ![Typescript love](https://media.tenor.com/m-MS3l7pLAUAAAAC/typescript-script.gif) --->
 
 
