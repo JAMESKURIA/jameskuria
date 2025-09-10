@@ -64,4 +64,4 @@ Feel free to explore my repositories and connect with me to discuss ideas, colla
 ## 📫 Let's Connect
 
 - GitHub: [JAMESKURIA](https://github.com/JAMESKURIA)
-- Email: [Your Email Address Here]
+- Email: <jameskuria04@gmail.com>
