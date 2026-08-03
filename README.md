@@ -47,7 +47,7 @@ I am deeply committed to developing high-quality software solutions. I enjoy col
 Feel free to explore my repositories and connect with me to discuss ideas, collaborations, or just to say hi! 😊
 
 ## 📊 GitHub Stats
-![James Kuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMESKURIA&show_icons=true&theme=radical)
+<!-- ![James Kuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMESKURIA&show_icons=true&theme=radical)-->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jameskuria&theme=react&hide_border=true&exclude_days=Sat&sideNums=EB5454&background=81%2C94379A%2C2E58B6)](https://git.io/streak-stats)
