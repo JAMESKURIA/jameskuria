@@ -3,7 +3,7 @@
 Hello! I'm a passionate software developer with a keen interest in full-stack development and cloud-based solutions. My projects span various technologies and aim to solve real-world challenges elegantly and efficiently.
 
 ---
-
+<!---
 ## 📂 My Projects
 
 ### [WiFi Reseller](https://github.com/JAMESKURIA/wifi-reseller)
@@ -39,7 +39,7 @@ A TypeScript-heavy project aimed at enabling efficient management and resale of 
 - **Docker**: Practical experience with containerized deployments.
 
 ---
-
+--->
 ## 🌟 About Me
 
 I am deeply committed to developing high-quality software solutions. I enjoy collaborating with others and am always eager to learn new technologies. My projects reflect a dedication to clean code, scalability, and user-centric design.
